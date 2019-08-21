@@ -3,7 +3,7 @@ Ball Mapper
 
 This code reimplements Algorithms 1 and 3 from P. Dlotko, "Ball mapper: A
 shape summary for topological data analysis," arXiv:1901.07410v1 [math.AT].
-Due to the use of multigraphs, we require MATLAB R2018a or later.
+We require MATLAB R2015b and the Statistics and Machine Learning Toolbox.
 
 The following functions are included:
 
